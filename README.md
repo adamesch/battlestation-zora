@@ -33,11 +33,11 @@ Zora is my Mac Studio. This repository contains links to everything I currently 
 ## expansion
 - usb hub: <>
 
-# input
+## input
 - keyboard: Keychron K4 (see: keeb-build-ww)
 - mouse: Logitech MX Master 3 for Mac
 - trackpad: Apple Magic Trackpad
 
-# miscellaneous
+## miscellaneous
 - deskpad: 
 - phone charger:
