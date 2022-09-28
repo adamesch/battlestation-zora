@@ -11,31 +11,33 @@ Zora is my Mac Studio. This repository contains links to everything I currently 
 # peripherals
 
 ## display
-- LG 34" 5K2K UltraWide 34WK95U-W
+- primary monitor: LG 34" 5K2K UltraWide 34WK95U-W
 
 ## audio
-- Shure SM7b
-- Cloud Microphones Cloudlifter CL-1
-- Universal Audio Volt 276
+- microphone: Shure SM7b
+- mic activator: Cloud Microphones Cloudlifter CL-1
+- interface: Universal Audio Volt 276
+- headphones: Audio-Technica MTH-50
 
 ## video
-- Elgato Facecam
+- webcam: Elgato Facecam
 
 ## lighting
-- Elgato Key Light Air
-- BenQ ScreenBar Halo
+- face light: Elgato Key Light Air
+- task light: BenQ ScreenBar Halo
 
 ## rigging
-- 
+- microphone arm: <>
+- webcam mount: <>
 
 # usb hubs
 - 
 
 # input
-- Keychron K4 (see: keeb-build-ww)
-- Logitech MX Master 3 for Mac
-- Apple Magic Trackpad
+- keyboard: Keychron K4 (see: keeb-build-ww)
+- mouse: Logitech MX Master 3 for Mac
+- trackpad: Apple Magic Trackpad
 
 # miscellaneous
-- <deskpad> 
-- <phone charger>
+- deskpad: 
+- phone charger:
