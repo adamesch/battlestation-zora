@@ -30,8 +30,8 @@ Zora is my Mac Studio. This repository contains links to everything I currently 
 - microphone arm: <>
 - webcam mount: <>
 
-# usb hubs
-- 
+## expansion
+- usb hub: <>
 
 # input
 - keyboard: Keychron K4 (see: keeb-build-ww)
